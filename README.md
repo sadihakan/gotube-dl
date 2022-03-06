@@ -6,7 +6,6 @@
 
 ```
 go run ./cmd -url=<video url> -key=<api key> -maxResult=<return a limited number of results>
-
 ```
 
 - *url*  
